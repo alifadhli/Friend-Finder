@@ -1,0 +1,25 @@
+.jumbotron {
+	background: rgba(71, 78, 89, 0.49);
+}
+
+.logo {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+	background: url(http://www.thehandgroupinc.com/wp-content/uploads/2013/02/wood-background1.png);
+	background-size: 100%;
+	
+}
+
+hr {
+	border-color: inherit;
+	    margin: 1em 0;
+}
+
+#resultsModal img {
+	overflow: hidden;
+	width: 500px;
+}
